@@ -262,10 +262,7 @@ div.rodape {
 }
 
 /* 1. Configurações CSS para telas de até 1280px de largura*/
-@media screen and (
-
-         max-width: 1280px
-) {
+@media screen and (max-width: 1280px) {
     .areaesquerda {
         /* 2. Posicionamento estático */
         position: static;
